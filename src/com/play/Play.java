@@ -78,7 +78,7 @@ public class Play
     option[9][1]="32";
     option[9][2]="10";
     option[9][3]="error";
-    answer[9]=2;
+    answer[9]=3;
 
   }
 
